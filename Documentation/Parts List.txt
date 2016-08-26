@@ -1,0 +1,4 @@
+COUNT 	|	PART				|	PART DESCRIPTION										|	NOTES
+=======================================================================================================================================================================================================================================================
+1		|	Platform Board		|	1-inch separated peg-board from Home Depot				|	This is at the discretion of the creator, and it should be noted the Home Depot hard-plastic peg-board I chose is not the lightest option
+1 		|	Light strip			|	5M 30 lights per meter Neopixels / WS2801B LED strip	|	Other individually-addressable LED strip types can work for this project type, but my code is specifically for Neopixels / WS2801B LED strips
