@@ -2,4 +2,3 @@
 2) Control the game using the classic Atari controller
 3) Display a scoreboard using a 7-segment display
 4) Create a map outline with neon blue EL Wire to give a neo-retro feel
-5) Position the game on a totem board for bringing to events such as music festivals (EDC and Nocturnal Wonderland 2016)

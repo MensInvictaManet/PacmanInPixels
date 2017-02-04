@@ -1,0 +1,29 @@
+Before we start, gather your supplies:
+
+Parts:
+- 5-meter, 30-lights-per-meter strip of WS2812B LEDs
+- A base board of 24" x 24" at least (I used a large acrylic board, but I would advise you to use a material that glue works better on. I had to use plastic apoxy after normal glue failed to create a good bond)
+- Rubber-Insulated Wire (I personally use 26-guage stranded wire)
+- 5 yards of 5-volt electric blue EL-Wire
+
+Tools:
+- Power drill (use a very small drill bit, the smallest you can find that is above the width of your wire)
+- Soldering iron and solder (I use lead-free, .022" solder)
+
+1) Cut the LED strip into the following piece collection:
+
+	- 1x 24-LED strip piece
+	- 1x 22-LED strip piece
+	- 1x 14-LED strip piece
+	- 4x 11-LED strip piece
+	- 1x 10-LED strip piece
+	- 1x 8-LED strip piece
+	- 2x 7-LED strip piece
+	- 4x 6-LED strip piece
+	- 2x 5-LED strip piece
+	- 18x 3-LED strip piece
+	- 16x 2-LED strip piece
+	
+2) Following the ordered grid image, paste the lights down. The ordered grid also has red arrows on each for the suggested direction to paste them down, so if you lay them down differently, the instructions later will have to be altered to your changes.
+
+3) Once the lights are pasted down, drill the holes for all wires. The wires will be coming up near the ends of the LED strips so drill three holes at each end of each strip. Where they are specifically isn't incredibly important, other than being close to the ends.
